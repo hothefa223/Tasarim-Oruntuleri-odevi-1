@@ -1,0 +1,19 @@
+[plantuml, target=diagram-classes, format=png]
+....
+
+
+package Package1 {
+    class Class1 {
+    }
+    
+    class Class2 {
+    }
+    
+    class Class3 {
+    }
+
+    Class1 "1" *-- "many" Class3 : contains
+}
+
+Class1 "1" *-- "many" Class2 : contains
+....
