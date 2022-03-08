@@ -1,1 +1,0 @@
-# Tasarim-Oruntuleri-odevi-1
